@@ -1,0 +1,12 @@
+
+body{
+    background-color: aqua;
+}
+section{
+    display: flex;
+}
+title{
+    align-items:center;
+    justify-content: center;
+    
+}
